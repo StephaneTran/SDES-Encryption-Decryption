@@ -1,7 +1,6 @@
 /* Contains menu of program.
 ** Author: Stephane Vien Tran
 ** Student Number: 19062639
-hello
 */
 
 #include <iostream>
