@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1602472054 source:c:\users\steph\onedrive\documents\codeblocks\is_assignment_task_1\main.cpp
+	<iostream>
+	"S_DES.h"
+
+1602411383 c:\users\steph\onedrive\documents\codeblocks\is_assignment_task_1\include\s_des.h
+	<string>
+	<vector>
+	<cmath>
+
+1602476767 c:\users\steph\onedrive\documents\codeblocks\is_assignment_task_1\s_des.h
+	<string>
+	<vector>
+
